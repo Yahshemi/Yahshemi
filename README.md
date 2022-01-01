@@ -1,7 +1,7 @@
 
 <img src="Images/profile-banner.png">
 <img src="Images/snake.svg">
-
+<img src="https://github-readme-stats.vercel.app/api?username=yahshemi">
 
 ### Hi there, I'm Yahshemi👋
 
