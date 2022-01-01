@@ -1,5 +1,4 @@
 
-![alt text](http://url/to/img.png)
 ![Git-hub Banner](https://user-images.githubusercontent.com/33473103/147845158-6d3437fa-b491-4807-92b4-fb6d969bbba8.png)
 
 
@@ -16,6 +15,8 @@
 
 
 <!--
+![alt text](http://url/to/img.png)
+
 **Yahshemi/Yahshemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
