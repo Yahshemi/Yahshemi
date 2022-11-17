@@ -1,5 +1,5 @@
 
-<img src="Images/profile-banner.png">
+<img src="Images/ccc-banner.jpeg">
 <img src="Images/snake.svg">
 <img src="https://github-readme-stats.vercel.app/api?username=yahshemi">
 
